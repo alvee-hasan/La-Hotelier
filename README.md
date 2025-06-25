@@ -22,11 +22,28 @@
 - **Check-In/Check-Out Management**  
   Smooth front desk operation with real-time room status.
 
+  ![Home](images/2.JPG)
+*Admin Login Page*
+![Home](images/5-dashboard.JPG)
+*Pending Allocation....*
+![Home](images/6.JPG)
+*Room approval*
+![Home](images/7.JPG)
+*Guest information*
+
 - **Billing & Payments**  
   Generate invoices, apply discounts, and track payments effortlessly.
 
 - **Room Service Ordering**  
-  Guests have the convenience of ordering food from the hotel's restaurant directly from their rooms through this system. It allows for a seamless ordering process,   providing guests with a diverse menu selection and enhancing their overall experience.   
+  Guests have the convenience of ordering food from the hotel's restaurant directly from their rooms through this system. It allows for a seamless ordering process,   providing guests with a diverse menu selection and enhancing their overall experience.
+
+  ![Home](images/10-order by ahsan.JPG)
+*Customer Selects food, provides phone number and places order. The order successful message confirms the Order.*
+![Home](images/11.JPG)
+*Ex:Information and Booking button of Thai food.*
+![Home](images/12.JPG)
+  *Admin’s panel where he can see the customer who ordered food , his number and Food Price.*
+
 
 - **New Employee Addition**  
   Hotel management can efficiently add new employees through the system. This functionality includes capturing necessary employee details, assigning roles, and managing access permissions within the hotel's management platform.
