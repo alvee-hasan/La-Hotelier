@@ -9,6 +9,8 @@
 
 - **Reservation System**
   This module facilitates seamless reservation processes for guests . It offers functionalities allowing guests to make reservations, view room availability, and manage booking preferences .It ensures a user-friendly experience and provides flexibility in choosing accommodation options.
+  ![Home](images/1.JPG)
+*The Home Page*
 
 - **Check-In/Check-Out Management**  
   Smooth front desk operation with real-time room status.
