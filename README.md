@@ -1,6 +1,7 @@
 # 🏨 La Hotelier – All-in-One Hotel Management Application
 
 **La Hotelier** aims to automate and improve the management of a hotel by utilizing Java in the NetBeans IDE. 
+
 **Java Swing:** Java Swing is a graphical user interface (GUI) toolkit and widget library for Java. It is a part of the Java Foundation Classes (JFC) and provides a set of components for building desktop applications in Java. Swing offers a rich set of GUI components like buttons, text fields, labels, tables, menus, and more, enabling developers to create interactive and visually appealing interfaces.
 
 
