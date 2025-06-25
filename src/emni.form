@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Component id="jScrollPane1" alignment="0" pref="791" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jScrollPane1" pref="748" max="32767" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea2">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="66" green="0" red="33" type="rgb"/>
+                </Property>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="Thai Feast: Thai cuisine is a vibrant and flavorful journey for the palate, known for its balance of sweet, sour, salty, and spicy tastes. A traditional Thai meal features an array of dishes that capture the essence of Thailand&apos;s culinary heritage. A typical Thai feast includes:&#xa;&#xa;Rice: Thai meals often revolve around rice, with jasmine rice being the preferred variety. It&apos;s typically served steamed alongside various dishes.&#xa;&#xa;Curries: Thai curries are a hallmark of the cuisine. Green curry, red curry, and yellow curry are popular choices, each offering a unique blend of coconut milk, fragrant herbs, and spices. These can be paired with a variety of proteins, from chicken and beef to seafood and tofu.&#xa;&#xa;Tom Yum Soup: A tangy and aromatic hot and sour soup, Tom Yum is a Thai classic. It&apos;s typically made with shrimp, mushrooms, lemongrass, and a combination of Thai herbs.&#xa;&#xa;Pad Thai: A beloved stir-fried noodle dish, Pad Thai combines rice noodles with shrimp, tofu, eggs, and a medley of flavors from tamarind, fish sauce, and crushed peanuts.&#xa;&#xa;Som Tum (Papaya Salad): A refreshing and spicy salad made from shredded green papaya, chili, lime, fish sauce, and peanuts. It&apos;s a delicious explosion of sweet and savory.&#xa;&#xa;Mango Sticky Rice: A popular Thai dessert, this dish combines sweet glutinous rice with slices of ripe mango, and it&apos;s drizzled with a sweet coconut sauce.&#xa;&#xa;Satay: Skewers of marinated and grilled meat (often chicken or beef) served with a rich and creamy peanut sauce.&#xa;&#xa;Basil Stir-Fry: Dishes like Pad Krapow Moo (Basil Pork) and Pad Krapow Gai (Basil Chicken) feature minced meat stir-fried with Thai holy basil, chilies, and garlic.&#xa;&#xa;Massaman Curry: A unique Thai curry with influences from Indian and Malay cuisines, Massaman curry includes tender meat, potatoes, and peanuts in a rich and fragrant sauce.&#xa;&#xa;Coconut Milk: Coconut milk is a common ingredient, used in soups, curries, and desserts to impart a rich and creamy texture.&#xa;&#xa;Larb: A zesty and tangy salad typically made with minced meat (pork, chicken, or beef) mixed with lime juice, fish sauce, fresh herbs, and toasted rice powder.&#xa;&#xa;Spring Rolls: Delicate and crispy spring rolls filled with vegetables, herbs, and sometimes shrimp or ground pork.&#xa;&#xa;Iced Tea: Thai iced tea or Thai iced coffee are popular beverage choices, offering a sweet and refreshing contrast to spicy dishes.&#xa;&#xa;A Thai meal is a culinary adventure through a land of diverse flavors, where the art of balancing sweet, salty, sour, and spicy reigns supreme. With an array of dishes ranging from fiery curries to cool and refreshing salads, Thai cuisine offers a unique and unforgettable dining experience."/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
