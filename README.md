@@ -24,7 +24,7 @@
 - **Employee Management**  
   Admin panel to manage staff roles, duties, and access levels.
 
-  - **Billing and Invoicing**  
+- **Billing and Invoicing**  
   Generates invoices, tracks payments, and manages billing details for guests. "La Hotelier" aspires to elevate the efficiency, guest satisfaction, and overall management standards of the hotel industry by amalgamating cutting-edge technology with intuitive and user-friendly functionalities.
 
 
