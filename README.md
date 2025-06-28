@@ -37,7 +37,7 @@
 - **Room Service Ordering**  
   Guests have the convenience of ordering food from the hotel's restaurant directly from their rooms through this system. It allows for a seamless ordering process,   providing guests with a diverse menu selection and enhancing their overall experience.
 
-![Home](images/10-order by ahsan.JPG)
+![Home](images/10-orderbyahsan.JPG)
 *Customer Selects food, provides phone number and places order. The order successful message confirms the Order.*
 ![Home](images/11.JPG)
 *Ex:Information and Booking button of Thai food.*
