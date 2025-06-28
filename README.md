@@ -15,7 +15,7 @@
 ![Home](images/3.JPG)
 *Guest Home Page*
 ![Home](images/4.JPG)
-*Guest Eoom booking Page*
+*Guest room booking page*
 ![Home](images/5.JPG)
 *Room Book form*
 
