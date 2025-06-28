@@ -26,7 +26,7 @@
 *Admin Login Page*
 ![Home](images/5-dashboard.JPG)
 *Pending Allocation....*
-![Home](images/6.JPG)
+![Home](images/6-approval.JPG)
 *Room approval*
 ![Home](images/7.JPG)
 *Guest information*
